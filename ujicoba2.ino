@@ -24,8 +24,8 @@ RTC_DS1307 rtc;
 Adafruit_SSD1306 oled(128, 64);
 
 // Set these to run example.
-#define FIREBASE_HOST "smartpetfeeder-82259-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "9GlWsvvy6VxTho24CtcXFZI0kEMgOTOJ112Eh7AN"
+#define FIREBASE_HOST "-"
+#define FIREBASE_AUTH "-"
 #define WIFI_SSID "SmartHome"
 #define WIFI_PASSWORD "SmartHome1315"
 
